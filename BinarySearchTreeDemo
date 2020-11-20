@@ -1,5 +1,3 @@
-package Competency62c;
-
 public class BinarySearchTreeDemo {
 
     public static void main(String[] args) {
